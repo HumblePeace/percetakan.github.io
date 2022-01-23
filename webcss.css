@@ -1,0 +1,211 @@
+.doc-html {
+	background-image: linear-gradient(180deg, blue, white);
+}
+
+.main-index {
+  	background: url(bg-img-1.jpg) no-repeat;
+  	background-size: cover;
+  	border: 2px white;
+  	border-radius: 10px;
+  	height: 40%;
+  	width: 95%;
+}	
+.main-index {
+	margin: 30px;
+	background-color: #ffffff;
+	border: 1px solid black;
+}
+.main-text h2 {
+ 	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+.main-text p {
+ 	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+
+.main-img {
+	width: 9%;
+	height: 9%;
+	margin: 50px 50px;
+}
+main p {
+	color: black;
+}
+
+a {
+	text-decoration: none;
+	color: #35858B;
+}
+section p {
+	font-size: 24px;
+}
+
+.banner { 
+	display: flex;
+	align-items: center;
+	justify-content: start;
+	background: white;
+	border-radius: 10px;
+	padding: 15px 15px 15px 15px;
+	margin: 20px 20px 20px 20px;
+
+}
+.banner-img {
+	width: 10%;
+	margin-right: 8px;
+
+}
+.bannertext {
+	font-size: 16px;
+	padding-right: 15px;
+	margin-left: 20px;
+}
+
+.spanduk { 
+	display: flex;
+	align-items: center;
+	justify-content: start;
+	background: white;
+	border-radius: 10px;
+	padding: 15px 15px 15px 15px;
+	margin: 20px 20px 20px 20px;
+}
+.spanduk-img {
+	width: 10%;
+	margin-right: 8px;
+}
+.spanduktext {
+	font-size: 16px;
+	padding-right: 15px;
+	margin-left: 20px;
+}
+
+.poster { 
+	display: flex;
+	align-items: center;
+	justify-content: start;
+	background: white;
+	border-radius: 10px;
+	padding: 15px 15px 15px 15px;
+	margin: 20px 20px 20px 20px;
+}
+.poster-img {
+	width: 10%;
+	margin-right: 8px;
+}
+.postertext {
+	font-size: 16px;
+	padding-right: 15px;
+	margin-left: 20px;
+}
+
+footer {
+	text-align: center;
+	margin-top: 30px;
+}
+.main-footer {
+	margin: 0 10px;
+	padding-right: 20px;
+}
+.main-index:before,
+.main-index:after {
+  	content: "";
+  	display: table;
+}
+.main-index:after {
+  clear: both;
+}
+.main-index {
+  clear: both;
+  *zoom: 1;
+}
+
+.banner1-text h2 {
+	font-size: 20px;
+	margin-left: 15px;
+}
+.banner-2-img {
+	margin-left: 20px;
+}
+.product-html {
+	background-image: radial-gradient(blue, white);
+}
+.spanduk-1 {
+	width: 600px;
+}
+.poster-1 {
+	width: 600px;
+}
+.afterproduct-html {
+	background-image: radial-gradient(turquoise, white);
+}
+.webcontact {
+	text-decoration: none;
+	color: black;
+}
+.contact-web {
+	font-size: 30px;
+	font-style: italic;
+}
+
+.narasumber-img {
+	height: 100px;
+	width: 100px;
+}
+
+.head-about { 
+	display: flex;
+	align-items: center;
+	justify-content: start;
+	background: white;
+	border-radius: 10px;
+	padding: 15px 15px 15px 15px;
+	margin: 20px 20px 20px 20px;
+}
+.head-about {
+	font-size: 16px;
+	padding-right: 15px;
+	margin-left: 20px;
+}
+.jadwal {
+	background: white;
+	border-radius: 10px;
+	padding: 15px 15px 15px 15px;
+	border-width: 70px;
+}
+.location-about {
+	float: right;
+	display: flex;
+	align-items: center;
+	justify-content: start;
+	background: white;
+	border-radius: 10px;
+	padding: 15px 15px 15px 15px;
+	margin: 20px 20px 20px 20px;
+}
+.about-main { 
+	display: flex;
+	align-items: center;
+	justify-content: start;
+	background: white;
+	border-radius: 10px;
+	padding: 15px 15px 15px 15px;
+	margin: 20px 20px 20px 20px;
+}
+.location-img {
+	width: 10%;
+	margin-right: 8px;
+}
+.logo-img {
+	width: 10%;
+	margin-right: 8px;
+
+}
+.about-text {
+	font-size: 16px;
+	padding-right: 15px;
+	margin-left: 20px;
+}
